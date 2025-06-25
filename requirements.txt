@@ -1,0 +1,9 @@
+streamlit
+spacy
+nltk
+scikit-learn
+sentence-transformers
+pdfminer.six
+python-docx
+PyMuPDF
+openai
